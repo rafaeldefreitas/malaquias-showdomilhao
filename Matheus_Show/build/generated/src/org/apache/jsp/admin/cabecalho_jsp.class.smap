@@ -1,0 +1,14 @@
+SMAP
+cabecalho_jsp.java
+JSP
+*S JSP
+*F
++ 0 cabecalho.jsp
+admin/cabecalho.jsp
+*L
+1,2:44
+5,19:48
+23,60:67
+83:127,3
+84,28:130
+*E
